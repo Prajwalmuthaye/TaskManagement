@@ -3,7 +3,6 @@ TaskManagement app
 
 Configure Dependencies in build.gradle
 :-
-
 dependencies {
     implementation "androidx.room:room-runtime:2.5.0"
     annotationProcessor "androidx.room:room-compiler:2.5.0"
@@ -13,7 +12,7 @@ dependencies {
     implementation "androidx.navigation:navigation-ui:2.5.3"
     implementation "androidx.recyclerview:recyclerview:1.3.0"
     implementation "com.google.android.material:material:1.8.0"
-    }
+}
 
 HomePage:-
 
